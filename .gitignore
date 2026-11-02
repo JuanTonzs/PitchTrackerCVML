@@ -1,0 +1,14 @@
+baseball
+venv
+*.mp4
+test_stuff.py
+extracted_frames
+checkball.py
+2019_atbats.csv
+2019_games.csv
+2019_pitches.csv
+atbats.csv
+ejections.csv
+games.csv
+player_names.csv
+pitches.csv
